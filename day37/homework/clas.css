@@ -1,0 +1,14 @@
+div{
+    background-size: 700px;width: 700px;height: 1000px;
+    background-color: darkmagenta;
+    text-align: center;
+    font-size: medium;
+    color: chocolate;
+}
+h1{
+    background-color: blue;
+    background-size: 400px;height: 500px;width: 300px;
+    font-size: medium;
+    text-align: center;
+    color: brown;
+}
