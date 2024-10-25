@@ -1,0 +1,9 @@
+.p0{
+    text-transform: uppercase;
+}
+.p1{
+    text-transform: lowercase;
+}
+.p2{
+    text-transform: capitalize;
+}
